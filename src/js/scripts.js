@@ -4,7 +4,7 @@ import * as dat from 'dat.gui';
 import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader';
 
 
-import sky from '../img/sky.png';
+// import sky from '../img/sky.png';
 import nebula from '../img/nebula.jpg';
 import stars from '../img/stars.jpg';
 
